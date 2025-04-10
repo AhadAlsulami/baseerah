@@ -17,7 +17,8 @@ Once the application is running, it will load the system with all available feat
 │   ├── Admin.py
 │   └── User.py
 ├── data/
-│   └── visitor_data.csv
+│   ├── pictures/
+│   └── registrations.csv
 ├── videos/
 │   ├── crowd_video1.mp4
 │   └── crowd_video2.mp4
