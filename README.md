@@ -46,4 +46,4 @@ The data folder stores:
 - Registration: Visitors can register to attend sporting events, providing necessary details for check-in.
 
 ## Credits
-This project was created by Ahad Alsulami and Waad Alsulami as part of the AI League competition organized by SCAI.
+This project was created by Ahad Alsulami (me) and Waad Alsulami as part of the AI League competition organized by SCAI.
