@@ -20,8 +20,8 @@ Once the application is running, it will load the system with all available feat
 │   ├── pictures/
 │   └── registrations.csv
 ├── videos/
-│   ├── crowd_video1.mp4
-│   └── crowd_video2.mp4
+│   ├── camera1.mp4
+│   └── camera2.mp4
 ```
 
 ### pages folder
